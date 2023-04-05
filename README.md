@@ -1,2 +1,2 @@
 # food-for-the-umn
-Free Food For the University Of Minnesota
+##Check out clubs and activities that offer free food throughout the week @ The UMN!
